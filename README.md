@@ -1,5 +1,7 @@
 # 📊 Análise Exploratória de Dados (EDA) - Desempenho Escolar
 
+https://www.kaggle.com/datasets/larsen0966/student-performance-data-set
+
 ## 📋 Sumário do Projeto
 
 Este projeto consiste em uma Análise Exploratória de Dados (EDA) realizada na linguagem R, utilizando o ecossistema `tidyverse`, para entender os fatores que influenciam o desempenho de estudantes em testes padronizados (Matemática, Leitura e Escrita).
